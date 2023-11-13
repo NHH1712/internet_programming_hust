@@ -1,0 +1,6 @@
+test test 0
+test1 test1 0
+hust hust 1
+soict soict 0
+hust123 hust 1
+soict123 soict 0
